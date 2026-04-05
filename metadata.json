@@ -1,0 +1,5 @@
+{
+  "name": "Máy tính Tổng Hai Số",
+  "description": "Một ứng dụng đơn giản để tính tổng của hai số nhập vào.",
+  "requestFramePermissions": []
+}
