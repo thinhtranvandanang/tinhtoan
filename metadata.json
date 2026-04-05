@@ -1,5 +1,5 @@
 {
-  "name": "Máy tính Đa năng",
-  "description": "Ứng dụng tính tổng và tích của hai số nhập vào.",
+  "name": "Máy tính Tổng Hai Số",
+  "description": "Một ứng dụng đơn giản để tính tổng của hai số nhập vào.",
   "requestFramePermissions": []
 }
